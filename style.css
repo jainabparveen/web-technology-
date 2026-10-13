@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #f5f5f5;
+    text-align: center;
+}
+
+nav {
+    background: #222;
+    padding: 15px;
+}
+
+nav a {
+    color: rgb(215, 206, 206);
+    text-decoration: none;
+    margin: 15px;
+}
+
+section {
+    padding: 50px;
+    margin: 20px;
+    background: white;
+    border-radius: 10px;
+}
+
+h1 {
+    color: #333;
+}
+
+h2 {
+    color: #444;
+}
+
+p {
+    font-size: 18px;
+}
